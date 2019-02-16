@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Attendence</string>
+    <string name="title_activity_student">studentActivity</string>
+    <string name="title_activity_teacher">teacherActivity</string>
+    <string name="TecherMessage">Teacher</string>
+    <string name="StudentMessage">Student</string>
+</resources>
